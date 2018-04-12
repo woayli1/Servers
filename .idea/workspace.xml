@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/routes/users.js" line="95" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d5f63c9-5988-41ce-b732-10e2c41b32cb" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orders.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/orders.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1919">
+              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1843">
+              <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin/www" />
+        <option value="D:/Documents/Tencent Files/503215870/FileRecv/wjsczay.java/io/dcloud/all.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/routes/orders.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1014" />
+    <option name="y" value="153" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servers" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servers" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servers" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servers" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Servers" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.1" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="F:/" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration name="users.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="users.js" working-dir="$PROJECT_DIR$/routes" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.users.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.users.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d5f63c9-5988-41ce-b732-10e2c41b32cb" name="Default" comment="" />
+      <created>1514178267787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514178267787</updated>
+      <workItem from="1514178296343" duration="378000" />
+      <workItem from="1514184011747" duration="8130000" />
+      <workItem from="1514251493183" duration="1026000" />
+      <workItem from="1514252538320" duration="8000" />
+      <workItem from="1514252566079" duration="16363000" />
+      <workItem from="1514273953883" duration="734000" />
+      <workItem from="1514280927876" duration="1113000" />
+      <workItem from="1514282303823" duration="60000" />
+      <workItem from="1514338686794" duration="8539000" />
+      <workItem from="1514949751065" duration="1523000" />
+      <workItem from="1514951643706" duration="7815000" />
+      <workItem from="1515131717055" duration="3172000" />
+      <workItem from="1515205043068" duration="44000" />
+      <workItem from="1515205363748" duration="1060000" />
+      <workItem from="1515375348645" duration="2107000" />
+      <workItem from="1516253517014" duration="3657000" />
+      <workItem from="1516257628542" duration="262000" />
+      <workItem from="1516258071153" duration="2784000" />
+      <workItem from="1516262298925" duration="125000" />
+      <workItem from="1516262428407" duration="669000" />
+      <workItem from="1517295395938" duration="4124000" />
+      <workItem from="1517720720990" duration="1725000" />
+      <workItem from="1518145395071" duration="301000" />
+      <workItem from="1520236414679" duration="2785000" />
+      <workItem from="1520326431902" duration="2353000" />
+      <workItem from="1520336770605" duration="2633000" />
+      <workItem from="1520393334282" duration="3809000" />
+      <workItem from="1520423770259" duration="2012000" />
+      <workItem from="1520426542476" duration="1724000" />
+      <workItem from="1520500841523" duration="2229000" />
+      <workItem from="1520826663303" duration="95000" />
+      <workItem from="1520990847652" duration="9904000" />
+      <workItem from="1521080929928" duration="206000" />
+      <workItem from="1521081556459" duration="2972000" />
+      <workItem from="1521429919803" duration="955000" />
+      <workItem from="1521435217182" duration="20000" />
+      <workItem from="1521961076551" duration="4813000" />
+      <workItem from="1522030322763" duration="12000" />
+      <workItem from="1522457833004" duration="621000" />
+      <workItem from="1522460557458" duration="885000" />
+      <workItem from="1522463780461" duration="985000" />
+      <workItem from="1522639025690" duration="7000" />
+      <workItem from="1522806437217" duration="796000" />
+      <workItem from="1522807265945" duration="7000" />
+      <workItem from="1523237801301" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105786000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1014" y="153" width="1386" height="788" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27372262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29117647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39911634" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="51" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/Parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Documents/Tencent Files/503215870/FileRecv/wjsczay.java/io/dcloud/all.js" />
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Work/真功夫上传-首都机场项目/upload_date/calccount.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/orders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1919">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/E:/Media/Servers">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/acorn/dist/acorn.js</node>
+            <node x="" y="">$PROJECT_DIR$/app.js#bodyParser#183;E:/Media/Servers/app.js#cookieParser#138;E:/Media/Servers/app.js#express#4;E:/Media/Servers/app.js#favicon#66;E:/Media/Servers/app.js#index#225;E:/Media/Servers/app.js#logger#106;E:/Media/Servers/app.js#orders#303;E:/Media/Servers/app.js#path#38;E:/Media/Servers/app.js#users#264;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/application.js#Router#274;E:/Media/Servers/node_modules/express/lib/application.js#View#485;E:/Media/Servers/node_modules/express/lib/application.js#compileETag#557;E:/Media/Servers/node_modules/express/lib/application.js#compileQueryParser#614;E:/Media/Servers/node_modules/express/lib/application.js#compileTrust#672;E:/Media/Servers/node_modules/express/lib/application.js#debug#432;E:/Media/Servers/node_modules/express/lib/application.js#deprecate#709;E:/Media/Servers/node_modules/express/lib/application.js#finalhandler#230;E:/Media/Servers/node_modules/express/lib/application.js#flatten#753;E:/Media/Servers/node_modules/express/lib/application.js#http#515;E:/Media/Servers/node_modules/express/lib/application.js#merge#793;E:/Media/Servers/node_modules/express/lib/application.js#methods#308;E:/Media/Servers/node_modules/express/lib/application.js#middleware#342;E:/Media/Servers/node_modules/express/lib/application.js#query#389;E:/Media/Servers/node_modules/express/lib/application.js#resolve#839;E:/Media/Servers/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/attrs.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/block-comment.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/block.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/case.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/code.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/comment.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/compiler.js#constantinople#299;E:/Media/Servers/node_modules/jade/lib/compiler.js#doctypes#87;E:/Media/Servers/node_modules/jade/lib/compiler.js#filters#51;E:/Media/Servers/node_modules/jade/lib/compiler.js#nodes#19;E:/Media/Servers/node_modules/jade/lib/compiler.js#parseJSExpression#257;E:/Media/Servers/node_modules/jade/lib/compiler.js#runtime#125;E:/Media/Servers/node_modules/jade/lib/compiler.js#selfClosing#193;E:/Media/Servers/node_modules/jade/lib/compiler.js#utils#161;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/debug.js#index.js#354;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/doctype.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/doctypes.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/each.js#Node#19;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/events.js#EventEmitter#420;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/express.js#EventEmitter#233;E:/Media/Servers/node_modules/express/lib/express.js#Route#349;E:/Media/Servers/node_modules/express/lib/express.js#Router#388;E:/Media/Servers/node_modules/express/lib/express.js#index.js#1513;E:/Media/Servers/node_modules/express/lib/express.js#mixin#269;E:/Media/Servers/node_modules/express/lib/express.js#proto#311;E:/Media/Servers/node_modules/express/lib/express.js#query.js#1465;E:/Media/Servers/node_modules/express/lib/express.js#req#422;E:/Media/Servers/node_modules/express/lib/express.js#res#454;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/filter.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/filters.js#CleanCSS#144;E:/Media/Servers/node_modules/jade/lib/filters.js#jstransformer#63;E:/Media/Servers/node_modules/jade/lib/filters.js#name#1361;E:/Media/Servers/node_modules/jade/lib/filters.js#transformers#19;E:/Media/Servers/node_modules/jade/lib/filters.js#uglify#109;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/fs.js#readFileSync#11806;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/http.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/raw-body/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/iconv-lite/lib/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/index.js#Buffer#236;E:/Media/Servers/node_modules/serve-favicon/index.js#etag#270;E:/Media/Servers/node_modules/serve-favicon/index.js#fresh#297;E:/Media/Servers/node_modules/serve-favicon/index.js#fs#326;E:/Media/Servers/node_modules/serve-favicon/index.js#ms#349;E:/Media/Servers/node_modules/serve-favicon/index.js#parseUrl#372;E:/Media/Servers/node_modules/serve-favicon/index.js#path#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js#deprecate#156;E:/Media/Servers/node_modules/body-parser/index.js#json.js#2302;E:/Media/Servers/node_modules/body-parser/index.js#raw.js#2373;E:/Media/Servers/node_modules/body-parser/index.js#text.js#2444;E:/Media/Servers/node_modules/body-parser/index.js#urlencoded.js#2522;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie-parser/index.js#cookie#190;E:/Media/Servers/node_modules/cookie-parser/index.js#signature#222;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/clean-css/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/morgan/index.js#auth#411;E:/Media/Servers/node_modules/morgan/index.js#debug#444;E:/Media/Servers/node_modules/morgan/index.js#deprecate#483;E:/Media/Servers/node_modules/morgan/index.js#onFinished#525;E:/Media/Servers/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jstransformer/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/constantinople/index.js</node>
+            <node x="" y="">parseMax;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/void-elements/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/with/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mkdirp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/commander/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/depd/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ms/index.js</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/acorn-globals/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/index.js#block-comment.js#477;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#block.js#233;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#case.js#164;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#code.js#96;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#comment.js#392;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#doctype.js#523;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#each.js#130;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#filter.js#353;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#literal.js#432;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#mixin-block.js#274;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#mixin.js#316;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#node.js#30;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#tag.js#63;E:/Media/Servers/node_modules/jade/lib/nodes/index.js#text.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/utils-merge/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/index.js#Layer#262;E:/Media/Servers/node_modules/express/lib/router/index.js#Route#230;E:/Media/Servers/node_modules/express/lib/router/index.js#debug#364;E:/Media/Servers/node_modules/express/lib/router/index.js#deprecate#412;E:/Media/Servers/node_modules/express/lib/router/index.js#flatten#456;E:/Media/Servers/node_modules/express/lib/router/index.js#methods#294;E:/Media/Servers/node_modules/express/lib/router/index.js#mixin#328;E:/Media/Servers/node_modules/express/lib/router/index.js#parseUrl#496;E:/Media/Servers/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/setprototypeof/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-type/index.js</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/index.js#Compiler#206;E:/Media/Servers/node_modules/jade/lib/index.js#Lexer#175;E:/Media/Servers/node_modules/jade/lib/index.js#Parser#142;E:/Media/Servers/node_modules/jade/lib/index.js#addWith#278;E:/Media/Servers/node_modules/jade/lib/index.js#doctypes.js#602;E:/Media/Servers/node_modules/jade/lib/index.js#filters.js#670;E:/Media/Servers/node_modules/jade/lib/index.js#fs#308;E:/Media/Servers/node_modules/jade/lib/index.js#index.js#515;E:/Media/Servers/node_modules/jade/lib/index.js#runtime#243;E:/Media/Servers/node_modules/jade/lib/index.js#utils#331;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/accepts/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/range-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js#browser.js#186;E:/Media/Servers/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bytes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/http-errors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/qs/lib/index.js</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/inline-tags.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/inspector-log.js#nullStream#70;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/jade.js#Attrs#66015;E:/Media/Servers/node_modules/jade/jade.js#Block#66047;E:/Media/Servers/node_modules/jade/jade.js#Compiler#1072;E:/Media/Servers/node_modules/jade/jade.js#Lexer#1041;E:/Media/Servers/node_modules/jade/jade.js#Node#57725;E:/Media/Servers/node_modules/jade/jade.js#Parser#1008;E:/Media/Servers/node_modules/jade/jade.js#_process#101411;E:/Media/Servers/node_modules/jade/jade.js#acorn#261104;E:/Media/Servers/node_modules/jade/jade.js#addWith#1144;E:/Media/Servers/node_modules/jade/jade.js#block#63626;E:/Media/Servers/node_modules/jade/jade.js#block-comment#63870;E:/Media/Servers/node_modules/jade/jade.js#case#63557;E:/Media/Servers/node_modules/jade/jade.js#characterParser#32766;E:/Media/Servers/node_modules/jade/jade.js#code#63489;E:/Media/Servers/node_modules/jade/jade.js#comment#63785;E:/Media/Servers/node_modules/jade/jade.js#constantinople#68597;E:/Media/Servers/node_modules/jade/jade.js#detect#261065;E:/Media/Servers/node_modules/jade/jade.js#doctype#63916;E:/Media/Servers/node_modules/jade/jade.js#doctypes#1468;E:/Media/Servers/node_modules/jade/jade.js#each#63523;E:/Media/Servers/node_modules/jade/jade.js#filter#63746;E:/Media/Servers/node_modules/jade/jade.js#filters#1536;E:/Media/Servers/node_modules/jade/jade.js#fs#1174;E:/Media/Servers/node_modules/jade/jade.js#index.js#1381;E:/Media/Servers/node_modules/jade/jade.js#inlineTags#66079;E:/Media/Servers/node_modules/jade/jade.js#literal#63825;E:/Media/Servers/node_modules/jade/jade.js#mixin#63709;E:/Media/Servers/node_modules/jade/jade.js#mixin-block#63667;E:/Media/Servers/node_modules/jade/jade.js#node#63423;E:/Media/Servers/node_modules/jade/jade.js#nodes#1809;E:/Media/Servers/node_modules/jade/jade.js#p#78722;E:/Media/Servers/node_modules/jade/jade.js#parseJSExpression#11499;E:/Media/Servers/node_modules/jade/jade.js#path#68569;E:/Media/Servers/node_modules/jade/jade.js#readFileSync#93254;E:/Media/Servers/node_modules/jade/jade.js#runtime#11367;E:/Media/Servers/node_modules/jade/jade.js#selfClosing#11435;E:/Media/Servers/node_modules/jade/jade.js#tag#63456;E:/Media/Servers/node_modules/jade/jade.js#text#63591;E:/Media/Servers/node_modules/jade/jade.js#utils#32734;E:/Media/Servers/node_modules/jade/jade.js#walk#261134;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/bin/jade.js#fs#58;E:/Media/Servers/node_modules/jade/bin/jade.js#jade#309;E:/Media/Servers/node_modules/jade/bin/jade.js#mkdirp#278;E:/Media/Servers/node_modules/jade/bin/jade.js#path#116;E:/Media/Servers/node_modules/jade/bin/jade.js#program#81;E:/Media/Servers/node_modules/jade/bin/jade.js#version#400;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js#bytes#190;E:/Media/Servers/node_modules/body-parser/lib/types/json.js#contentType#219;E:/Media/Servers/node_modules/body-parser/lib/types/json.js#createError#261;E:/Media/Servers/node_modules/body-parser/lib/types/json.js#debug#302;E:/Media/Servers/node_modules/body-parser/lib/types/json.js#read#351;E:/Media/Servers/node_modules/body-parser/lib/types/json.js#typeis#381;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/layer.js#debug#274;E:/Media/Servers/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/lexer.js#characterParser#51;E:/Media/Servers/node_modules/jade/lib/lexer.js#utils#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/literal.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/mixin-block.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/mixin.js#Attrs#19;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/net.js#isIP#40076;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/uglify-js/tools/node.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/node.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/node.js#debug.js#214;E:/Media/Servers/node_modules/debug/src/node.js#fs#4406;E:/Media/Servers/node_modules/debug/src/node.js#net#4575;E:/Media/Servers/node_modules/debug/src/node.js#tty#37;E:/Media/Servers/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/orders.js#express#4;E:/Media/Servers/routes/orders.js#mysql#2730;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/package.json#version#4306;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/parser.js#Lexer#19;E:/Media/Servers/node_modules/jade/lib/parser.js#constantinople#179;E:/Media/Servers/node_modules/jade/lib/parser.js#filters#115;E:/Media/Servers/node_modules/jade/lib/parser.js#fs#10960;E:/Media/Servers/node_modules/jade/lib/parser.js#nodes#51;E:/Media/Servers/node_modules/jade/lib/parser.js#p#10304;E:/Media/Servers/node_modules/jade/lib/parser.js#parseJSExpression#247;E:/Media/Servers/node_modules/jade/lib/parser.js#path#151;E:/Media/Servers/node_modules/jade/lib/parser.js#utils#83;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/path.js#resolve#33754;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/query.js#merge#218;E:/Media/Servers/node_modules/express/lib/middleware/query.js#parseUrl#253;E:/Media/Servers/node_modules/express/lib/middleware/query.js#qs#289;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/querystring.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js#bytes#144;E:/Media/Servers/node_modules/body-parser/lib/types/raw.js#debug#173;E:/Media/Servers/node_modules/body-parser/lib/types/raw.js#read#221;E:/Media/Servers/node_modules/body-parser/lib/types/raw.js#typeis#251;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/read.js#createError#156;E:/Media/Servers/node_modules/body-parser/lib/read.js#getBody#197;E:/Media/Servers/node_modules/body-parser/lib/read.js#iconv#231;E:/Media/Servers/node_modules/body-parser/lib/read.js#onFinished#265;E:/Media/Servers/node_modules/body-parser/lib/read.js#zlib#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/release.js#compiledWebsite#452;E:/Media/Servers/node_modules/jade/release.js#fs#19;E:/Media/Servers/node_modules/jade/release.js#pr#43;E:/Media/Servers/node_modules/jade/release.js#readdirp#88;E:/Media/Servers/node_modules/jade/release.js#version#413;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/request.js#accepts#230;E:/Media/Servers/node_modules/express/lib/request.js#deprecate#264;E:/Media/Servers/node_modules/express/lib/request.js#fresh#401;E:/Media/Servers/node_modules/express/lib/request.js#http#373;E:/Media/Servers/node_modules/express/lib/request.js#isIP#315;E:/Media/Servers/node_modules/express/lib/request.js#parse#473;E:/Media/Servers/node_modules/express/lib/request.js#parseRange#431;E:/Media/Servers/node_modules/express/lib/request.js#proxyaddr#506;E:/Media/Servers/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/response.js#contentDisposition#194;E:/Media/Servers/node_modules/express/lib/response.js#cookie#793;E:/Media/Servers/node_modules/express/lib/response.js#deprecate#251;E:/Media/Servers/node_modules/express/lib/response.js#encodeUrl#295;E:/Media/Servers/node_modules/express/lib/response.js#escapeHtml#333;E:/Media/Servers/node_modules/express/lib/response.js#http#374;E:/Media/Servers/node_modules/express/lib/response.js#isAbsolute#415;E:/Media/Servers/node_modules/express/lib/response.js#merge#554;E:/Media/Servers/node_modules/express/lib/response.js#normalizeType#651;E:/Media/Servers/node_modules/express/lib/response.js#normalizeTypes#706;E:/Media/Servers/node_modules/express/lib/response.js#onFinished#450;E:/Media/Servers/node_modules/express/lib/response.js#path#491;E:/Media/Servers/node_modules/express/lib/response.js#send#825;E:/Media/Servers/node_modules/express/lib/response.js#setCharset#758;E:/Media/Servers/node_modules/express/lib/response.js#sign#597;E:/Media/Servers/node_modules/express/lib/response.js#statuses#519;E:/Media/Servers/node_modules/express/lib/response.js#vary#931;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/route.js#Layer#324;E:/Media/Servers/node_modules/express/lib/router/route.js#debug#230;E:/Media/Servers/node_modules/express/lib/router/route.js#flatten#284;E:/Media/Servers/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/runtime.js#readFileSync#5773;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/runtime.js#readFileSync#4928;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/tag.js#Attrs#19;E:/Media/Servers/node_modules/jade/lib/nodes/tag.js#Block#51;E:/Media/Servers/node_modules/jade/lib/nodes/tag.js#inlineTags#83;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/text.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js#bytes#144;E:/Media/Servers/node_modules/body-parser/lib/types/text.js#contentType#173;E:/Media/Servers/node_modules/body-parser/lib/types/text.js#debug#215;E:/Media/Servers/node_modules/body-parser/lib/types/text.js#read#264;E:/Media/Servers/node_modules/body-parser/lib/types/text.js#typeis#294;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/transformers/lib/transformers.js</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/tty.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js#bytes#190;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#contentType#219;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#createError#261;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#debug#302;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#deprecate#357;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#index.js#4569;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#querystring.js#4631;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#read#404;E:/Media/Servers/node_modules/body-parser/lib/types/urlencoded.js#typeis#434;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/users.js#express#4;E:/Media/Servers/routes/users.js#mysql#2273;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/utils.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/utils.js#compileETag#3405;E:/Media/Servers/node_modules/express/lib/utils.js#compileQueryParser#3955;E:/Media/Servers/node_modules/express/lib/utils.js#compileTrust#4605;E:/Media/Servers/node_modules/express/lib/utils.js#contentDisposition#198;E:/Media/Servers/node_modules/express/lib/utils.js#contentType#255;E:/Media/Servers/node_modules/express/lib/utils.js#deprecate#298;E:/Media/Servers/node_modules/express/lib/utils.js#etag#415;E:/Media/Servers/node_modules/express/lib/utils.js#flatten#342;E:/Media/Servers/node_modules/express/lib/utils.js#isAbsolute#1267;E:/Media/Servers/node_modules/express/lib/utils.js#mime#389;E:/Media/Servers/node_modules/express/lib/utils.js#normalizeType#1874;E:/Media/Servers/node_modules/express/lib/utils.js#normalizeTypes#2152;E:/Media/Servers/node_modules/express/lib/utils.js#proxyaddr#443;E:/Media/Servers/node_modules/express/lib/utils.js#qs#482;E:/Media/Servers/node_modules/express/lib/utils.js#querystring#506;E:/Media/Servers/node_modules/express/lib/utils.js#setCharset#5202;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/view.js#__express#1537;E:/Media/Servers/node_modules/express/lib/view.js#debug#230;E:/Media/Servers/node_modules/express/lib/view.js#fs#304;E:/Media/Servers/node_modules/express/lib/view.js#path#276;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/acorn/dist/walk.js</node>
+            <node x="" y="">$PROJECT_DIR$/bin/www#app#58;E:/Media/Servers/bin/www#debug#87;E:/Media/Servers/bin/www#http#135;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/zlib.js</node>
+            <node x="" y="">_process</node>
+            <node x="" y="">attrs</node>
+            <node x="" y="">block</node>
+            <node x="" y="">block-comment</node>
+            <node x="" y="">case</node>
+            <node x="" y="">code</node>
+            <node x="" y="">comment</node>
+            <node x="" y="">compiler</node>
+            <node x="" y="">doctype</node>
+            <node x="" y="">doctypes</node>
+            <node x="" y="">each</node>
+            <node x="" y="">filter</node>
+            <node x="" y="">filters</node>
+            <node x="" y="">inline-tags</node>
+            <node x="" y="">lexer</node>
+            <node x="" y="">literal</node>
+            <node x="" y="">sync;</node>
+            <node x="" y="">mixin</node>
+            <node x="" y="">mixin-block</node>
+            <node x="" y="">__express;</node>
+            <node x="" y="">name</node>
+            <node x="" y="">node</node>
+            <node x="" y="">nodes</node>
+            <node x="" y="">parser</node>
+            <node x="" y="">pull-request</node>
+            <node x="" y="">stop.js</node>
+            <node x="" y="">Writable;</node>
+            <node x="" y="">tag</node>
+            <node x="" y="">text</node>
+            <node x="" y="">utils</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9999999999999999" x="2542.0" y="3192.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/E:/Media/Servers/routes">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/routes</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/orders.js#express#4;E:/Media/Servers/routes/orders.js#mysql#2730;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/users.js#express#4;E:/Media/Servers/routes/users.js#mysql#2273;</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="164.0" y="164.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/E:/Media/Servers/app.js;E:/Media/Servers/routes;E:/Media/Servers/bin;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/app.js;E:/Media/Servers/routes;E:/Media/Servers/bin;</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/app.js#bodyParser#183;E:/Media/Servers/app.js#cookieParser#138;E:/Media/Servers/app.js#express#4;E:/Media/Servers/app.js#favicon#66;E:/Media/Servers/app.js#index#225;E:/Media/Servers/app.js#logger#106;E:/Media/Servers/app.js#orders#303;E:/Media/Servers/app.js#path#38;E:/Media/Servers/app.js#users#264;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/http.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/morgan/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/orders.js#express#4;E:/Media/Servers/routes/orders.js#mysql#2730;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.1/core-modules/path.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/users.js#express#4;E:/Media/Servers/routes/users.js#mysql#2273;</node>
+            <node x="" y="">$PROJECT_DIR$/bin/www#app#58;E:/Media/Servers/bin/www#debug#87;E:/Media/Servers/bin/www#http#135;</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="388.0" y="295.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
